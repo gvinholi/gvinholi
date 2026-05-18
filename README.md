@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hoje eu me encontro desempregado<br>🌱 Estudando Análise e Desenvolvimento de Sistemas<br>📫 Contate-me pelo email: gabrielvinholi@gmail.com<br>😄 Pronomes: Ele/Dele 
+🔭 Desenvolvedor fullstack web na Confederatio<br>🌱 Estudando Análise e Desenvolvimento de Sistemas<br>📫 Contate-me pelo email: gabrielvinholi@gmail.com<br>😄 Pronomes: Ele/Dele 
 
 
 ## 🌐 Socials:
